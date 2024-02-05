@@ -1,0 +1,9 @@
+credentials.json
+
+
+
+*/.terraform/*
+*/.terraform.*
+*/terraform.*
+
+fleet-pillar-238009-09f1a7785264.json
